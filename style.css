@@ -1,0 +1,20 @@
+.head{
+	text-align: center;
+}
+.paragraph{
+
+	text-align: left;
+}
+
+.sizedbox{
+
+	width: 480px;
+	height: 480px;
+	float: right;
+	
+}
+.vedio{
+	margin-left: 20px;
+	margin-right: 20px;
+	float: right;
+}
